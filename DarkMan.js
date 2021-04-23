@@ -7390,7 +7390,7 @@ message.member.voiceChannel
 client.login("");
 client2.login("");
 client3.login("");
-client4.login("");
+client4.login("ODM0NDg3Mzg0MDM2ODY4MDk2.YIBm8A.Y-2p7LbLKxen_chOa4Xpw-0vLrQ");
 client5.login("");
 client6.login("");
 client7.login("");
